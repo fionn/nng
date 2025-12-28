@@ -24,3 +24,13 @@ import NNG.Implication.L08_neq
 import NNG.Implication.L09_zero_ne_succ
 import NNG.Implication.L10_one_ne_zero
 import NNG.Implication.L11_two_plus_two_ne_five
+
+import NNG.Multiplication.L01_mul_one
+import NNG.Multiplication.L02_zero_mul
+import NNG.Multiplication.L03_succ_mul
+import NNG.Multiplication.L04_mul_comm
+import NNG.Multiplication.L05_one_mul
+import NNG.Multiplication.L06_two_mul
+import NNG.Multiplication.L07_mul_add
+import NNG.Multiplication.L08_add_mul
+import NNG.Multiplication.L09_mul_assoc
