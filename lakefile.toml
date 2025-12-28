@@ -1,0 +1,12 @@
+name = "nng"
+version = "0.1.0"
+defaultTargets = ["Nng"]
+lintDriver = "batteries/runLinter"
+
+[[lean_lib]]
+name = "Nng"
+
+[[require]]
+scope = "leanprover-community"
+name = "Game"
+rev = "e55da341a671ee4a4debcffe77efbff2c3d3316f"
