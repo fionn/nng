@@ -1,4 +1,4 @@
-import Nng.Implication.L08_neq
+import NNG.Implication.L08_neq
 
 namespace MyNat
 

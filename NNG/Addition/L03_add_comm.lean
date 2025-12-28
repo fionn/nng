@@ -1,4 +1,4 @@
-import Nng.Addition.L02_succ_add
+import NNG.Addition.L02_succ_add
 
 namespace MyNat
 

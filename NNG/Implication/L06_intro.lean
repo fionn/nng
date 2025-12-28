@@ -1,4 +1,4 @@
-import Nng.Implication.L05_backwards
+import NNG.Implication.L05_backwards
 
 namespace MyNat
 

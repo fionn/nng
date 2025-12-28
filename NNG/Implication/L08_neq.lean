@@ -1,4 +1,4 @@
-import Nng.Implication.L07_intro_practice
+import NNG.Implication.L07_intro_practice
 
 namespace MyNat
 

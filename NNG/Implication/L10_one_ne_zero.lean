@@ -1,4 +1,4 @@
-import Nng.Implication.L09_zero_ne_succ
+import NNG.Implication.L09_zero_ne_succ
 
 namespace MyNat
 

@@ -1,4 +1,4 @@
-import Nng.Addition.L04_add_assoc
+import NNG.Addition.L04_add_assoc
 
 namespace MyNat
 

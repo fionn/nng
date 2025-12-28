@@ -1,4 +1,4 @@
-import Nng.Implication.L04_succ_inj
+import NNG.Implication.L04_succ_inj
 
 namespace MyNat
 

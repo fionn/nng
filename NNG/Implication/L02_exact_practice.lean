@@ -1,4 +1,4 @@
-import Nng.Implication.L01_exact
+import NNG.Implication.L01_exact
 
 namespace MyNat
 

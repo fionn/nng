@@ -1,4 +1,4 @@
-import Nng.Implication.L02_exact_practice
+import NNG.Implication.L02_exact_practice
 
 namespace MyNat
 

@@ -1,10 +1,10 @@
 name = "nng"
 version = "0.1.0"
-defaultTargets = ["Nng"]
+defaultTargets = ["NNG"]
 lintDriver = "batteries/runLinter"
 
 [[lean_lib]]
-name = "Nng"
+name = "NNG"
 
 [[require]]
 scope = "leanprover-community"

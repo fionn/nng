@@ -1,4 +1,4 @@
-import Nng.Implication.L06_intro
+import NNG.Implication.L06_intro
 
 namespace MyNat
 

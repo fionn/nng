@@ -1,4 +1,4 @@
-import Nng.Implication.L03_apply
+import NNG.Implication.L03_apply
 
 namespace MyNat
 
