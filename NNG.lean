@@ -34,3 +34,13 @@ import NNG.Multiplication.L06_two_mul
 import NNG.Multiplication.L07_mul_add
 import NNG.Multiplication.L08_add_mul
 import NNG.Multiplication.L09_mul_assoc
+
+import NNG.Algorithm.L01_add_left_comm
+import NNG.Algorithm.L02_easier
+import NNG.Algorithm.L03_simp
+import NNG.Algorithm.L04_simp_again
+import NNG.Algorithm.L05_pred
+import NNG.Algorithm.L06_is_zero
+import NNG.Algorithm.L07_succ_ne_succ
+import NNG.Algorithm.L08_decide
+import NNG.Algorithm.L09_decide_again
