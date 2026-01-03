@@ -44,3 +44,14 @@ import NNG.Algorithm.L06_is_zero
 import NNG.Algorithm.L07_succ_ne_succ
 import NNG.Algorithm.L08_decide
 import NNG.Algorithm.L09_decide_again
+
+import NNG.Power.L01_zero_pow_zero
+import NNG.Power.L02_zero_pow_succ
+import NNG.Power.L03_pow_one
+import NNG.Power.L04_one_pow
+import NNG.Power.L05_pow_two
+import NNG.Power.L06_pow_add
+import NNG.Power.L07_mul_power
+import NNG.Power.L08_pow_pow
+import NNG.Power.L09_add_sq
+import NNG.Power.L10_flt
